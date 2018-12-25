@@ -4,7 +4,9 @@
 - 源码地址：
     - GitHub：https://github.com/surpassm/liaoin-security-core
 - 使用样例：https://github.com/surpassm/liaoin-sercurity-test
-
+---
+ [RELEASE](https://github.com/surpassm/liaoin-security-core/releases/tag/0.0.1.RELEASE)
+---
 ### 版本基础
 ```
 <dependency>
