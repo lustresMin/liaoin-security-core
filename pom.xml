@@ -2,13 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.lustresMin</groupId>
+    <groupId>com.github.surpassm</groupId>
     <artifactId>liaoin-security-core</artifactId>
     <version>0.0.1.RELEASE</version>
     <name>liaoin-security-core</name>
     <packaging>jar</packaging>
     <description>了赢科技权限验证封装核心代码</description>
-    <url>https://github.com/lustresMin/liaoin-security-core</url>
+    <url>https://github.com/surpassm/liaoin-security-core</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -112,15 +112,15 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/lustresMin/liaoin-security-core</url>
-        <connection>https://github.com/lustresMin/liaoin-security-core.git</connection>
-        <developerConnection>https://github.com/lustresMin</developerConnection>
+        <url>https://github.com/surpassm/liaoin-security-core</url>
+        <connection>https://github.com/surpassm/liaoin-security-core.git</connection>
+        <developerConnection>https://github.com/surpassm</developerConnection>
     </scm>
     <developers>
         <developer>
-            <name>lustresMin</name>
+            <name>lustres</name>
             <email>lustres@sina.com</email>
-            <url>https://github.com/lustresMin</url>
+            <url>https://github.com/surpassm</url>
         </developer>
     </developers>
 
