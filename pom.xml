@@ -4,9 +4,9 @@
     <groupId>com.github.surpassm</groupId>
     <artifactId>liaoin-security-core</artifactId>
     <version>0.0.1.RELEASE</version>
-    <name>liaoin-security-core</name>
     <packaging>jar</packaging>
-    <description>了赢科技权限验证封装核心代码</description>
+    <name>liaoin-security-core</name>
+    <description>Encapsulation Core Code for Winning Scientific and Technological Privilege Verification</description>
     <url>https://github.com/surpassm/liaoin-security-core</url>
 
     <properties>
