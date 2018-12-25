@@ -1,0 +1,2 @@
+# liaoin-security-core
+了赢科技springSecurity和springSocial验证框架核心代码
