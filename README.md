@@ -1,6 +1,37 @@
-# liaoin-security-core
+# 简介
 了赢科技springSecurity和springSocial验证框架核心代码
 
+- 源码地址：
+    - GitHub：https://github.com/surpassm/liaoin-security-core
+- 使用样例：https://github.com/surpassm/liaoin-sercurity-test
+
+### 版本基础
+```
+<dependency>
+    <groupId>io.spring.platform</groupId>
+    <artifactId>platform-bom</artifactId>
+    <version>Brussels-SR12</version>
+    <type>pom</type>
+    <scope>import</scope>
+</dependency>
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-dependencies</artifactId>
+    <version>Dalston.SR5</version>
+    <type>pom</type>
+    <scope>import</scope>
+</dependency>
+```
+### 如何使用
+在该项目的帮助下，我们的Spring Boot可以轻松的引入liaoin-security-core，主需要做下面两个步骤：
+- 在pom.xml中引入依赖：
+```
+<dependency>
+    <groupId>com.github.surpassm</groupId>
+    <artifactId>liaoin-security-core</artifactId>
+    <version>0.0.1.RELEASE</version>
+</dependency>
+```
 ### 项目结构
 
 --`liaoin-security`  父级目录  
@@ -10,7 +41,8 @@
 ----`liaoin-security-test`  测试  
 
 
-### 使用说明
+### 参数配置
+更细致的配置内容参考如下：
 - 具体配置说明，这里的格式是yml
 ~~~
 liaoin:
